@@ -1,0 +1,35 @@
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+
+# Node modules (if added later)
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Git
+*.orig
